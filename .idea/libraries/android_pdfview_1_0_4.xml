@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-pdfview-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.joanzapata.pdfview/android-pdfview/1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.joanzapata.pdfview/android-pdfview/1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.pdfview/android-pdfview/1.0.4/beb7b48cdcb474c4e384385d95feaf9883b04870/android-pdfview-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
