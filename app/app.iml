@@ -111,9 +111,9 @@
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="socket.io-client-0.7.0" level="project" />
-    <orderEntry type="library" exported="" name="http-request-6.0" level="project" />
-    <orderEntry type="library" exported="" name="okhttp-2.7.5" level="project" />
     <orderEntry type="library" exported="" name="okio-1.8.0" level="project" />
+    <orderEntry type="library" exported="" name="okhttp-2.7.5" level="project" />
+    <orderEntry type="library" exported="" name="http-request-6.0" level="project" />
     <orderEntry type="library" exported="" name="android-pdfview-1.0.4" level="project" />
     <orderEntry type="library" exported="" name="uploadservice-3.0" level="project" />
     <orderEntry type="library" exported="" name="retrofit-1.9.0" level="project" />
@@ -123,8 +123,8 @@
     <orderEntry type="library" exported="" name="design-24.0.0" level="project" />
     <orderEntry type="library" exported="" name="recyclerview-v7-24.0.0" level="project" />
     <orderEntry type="library" exported="" name="engine.io-client-0.7.0" level="project" />
-    <orderEntry type="library" exported="" name="gson-2.7" level="project" />
     <orderEntry type="library" exported="" name="retrofit-2.1.0" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.7" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-24.0.0" level="project" />
     <orderEntry type="library" exported="" name="converter-gson-2.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-24.0.0" level="project" />
