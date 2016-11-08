@@ -246,7 +246,7 @@ public class Servidor
                 else
                     numero = "10"+i;
 
-                prueba = "http://192.168.1."+numero+":"+PUERTO;
+                prueba = "http://192.168.0."+numero+":"+PUERTO;
                 socket = IO.socket(prueba, opts);
                 socket.connect();
                 anadirEventosSocket();
